@@ -36,3 +36,6 @@ It is time to compare both undefined and null. So undefined and null represents 
 
 - What will be the output of ```undefined == null ``` and ```undefined === null```? Why?
     - Because we know both are contains same value which is nothing-ness but we also known that both have their own datatypes so in first conditon with double equally or you can say loosely check ```undefined == null ``` output will be ```True``` but in second scenario output should be false because (strictoly check) ```===``` check data type and then check the values. So it returs us ```False```
+
+- Can you explicitly assign `undefined` to a variable?
+    - Yes you can explicitly assign `undefined` to a variable. 
