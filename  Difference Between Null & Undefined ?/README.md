@@ -142,7 +142,7 @@ Q.3) Can you explicitly assign "undefined" to a variable? (`let i = undefined`) 
     - What is "undefined" in JavaScript?
 ---
 
-## 1. What is "undefined" in JavaScript ?
+## 1. What is undefined in JavaScript ?
 
 ### Reference
 
