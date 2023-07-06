@@ -1,3 +1,4 @@
+#  Difference Between Null & Undefined ?
 
 In all programming languages you see null values but javscript has both "UNDEFINED" and "NULL" values. And Do not be confused in both. Not only you, even experienced developer also confuse in both.
 
@@ -16,3 +17,17 @@ Let's see below code for more clearity and understanding.
 
 ### What is typeof? 
     - typeof is a kind of operator which gives you the type of variable, that is the data type of a variable
+
+Let's talk about null, So nill is exactoly same as other programming languges. null means nothing.When we have a varibale or object which we want to make empty then we assign "null" to a variable. and typeof null is object. You can see the below snippets
+
+
+```
+    let x = null;
+
+    console.log("value of x is " + x, "and typeof x " + typeof x) // output :  value of x is null and typeof x object
+```
+
+It is time to compare both undefined and null. So undefined and null represents nothing-ness but the both contain different datatype
+
+## Relative questions
+ 
