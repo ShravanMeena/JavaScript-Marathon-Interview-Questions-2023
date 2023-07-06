@@ -31,6 +31,5 @@ It is time to compare both undefined and null. So undefined and null represents 
 
 ## Relative questions
 - What is undefined in javascript ?
- - We have already discuss about this above but in simple term `A varibale which is assigned a value is "undefined"`
-     - for ex:
-        - ```let y; // undefined```
+  - We have already discussed about this above but in simple term `A varibale which is not assigned a value is "undefined"`
+    - ```let y; // undefined```
