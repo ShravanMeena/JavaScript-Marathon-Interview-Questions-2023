@@ -1,7 +1,7 @@
 
 In all programming languages you see null values but javscript has both "UNDEFINED" and "NULL" values. And Do not be confused in both. Not only you, even experienced developer also confuse in both.
 
-So let's begin with undefined, Most of the languges have data types for variables and Yes javascript also has but at the time of variable declaration, there is no data type decided.When a value assign to a varibale then it decides data types, So before any values is assigned to a variable in javascript, the varibale conatains "undefined".
+So let's begin with undefined, Most of the languges have data types for variables and Yes javascript also has but at the time of variable declaration, there is no data type decides.When a value assign to a varibale then it decides data types, So before any values is assigned to a variable in javascript, the varibale conatains "undefined".
 Let's see below code for more clearity and understanding.
 
 ```
