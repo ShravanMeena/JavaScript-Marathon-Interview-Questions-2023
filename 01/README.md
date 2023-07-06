@@ -15,10 +15,7 @@ Let's see below code for more clearity and understanding.
 
     "undefined" is a datatype in javascript
 
-### What is typeof? 
-    - typeof is a kind of operator which gives you the type of variable, that is the data type of a variable
-
-Let's talk about null, So nill is exactoly same as other programming languges. null means nothing.When we have a varibale or object which we want to make empty then we assign "null" to a variable. and typeof null is object. You can see the below snippets
+Let's talk about null, So null is exactoly same as other programming languges. null means nothing.When we have a varibale or object which we want to make empty then we assign "null" to a variable. and typeof null is object. You can see the below snippets
 
 
 ```
@@ -30,6 +27,9 @@ Let's talk about null, So nill is exactoly same as other programming languges. n
 It is time to compare both undefined and null. So undefined and null represents nothing-ness but the both contain different datatype
 
 ## Relative questions
+- What is typeof? 
+    - typeof is a kind of operator which gives you the type of variable, that is the data type of a variable
+
 - What is undefined in javascript ?
   - We have already discussed about this above but in simple term `A varibale which is not assigned a value is "undefined"`
     - for e.g. ```let y; // undefined```
