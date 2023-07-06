@@ -30,4 +30,7 @@ Let's talk about null, So nill is exactoly same as other programming languges. n
 It is time to compare both undefined and null. So undefined and null represents nothing-ness but the both contain different datatype
 
 ## Relative questions
- 
+- What is undefined in javascript ?
+ - We have already discuss about this above but in simple term `A varibale which is assigned a value is "undefined"`
+     - for ex:
+        - ```let y; // undefined```
