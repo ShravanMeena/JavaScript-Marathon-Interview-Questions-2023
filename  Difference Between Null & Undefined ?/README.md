@@ -1,4 +1,4 @@
-1. **[Call Stack](#1-call-stack)**
+1. **[What is "undefined" in JavaScript ?](#1-what-is-undefined-in-JavaScript--?)**
 
 <!-- 
 Q.2) What will be the output of undefined==null & undefined===null? Why?
@@ -142,7 +142,7 @@ Q.3) Can you explicitly assign "undefined" to a variable? (`let i = undefined`) 
     - What is "undefined" in JavaScript?
 ---
 
-## 1. Call Stack
+## 1. What is "undefined" in JavaScript ?
 
 ### Reference
 
