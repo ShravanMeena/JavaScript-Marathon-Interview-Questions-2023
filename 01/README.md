@@ -15,7 +15,7 @@ Let's see below code for more clearity and understanding.
 
     "undefined" is a datatype in javascript
 
-Let's talk about null, So null is exactoly same as other programming languges. null means nothing.When we have a varibale or object which we want to make empty then we assign "null" to a variable. and typeof null is object. You can see the below snippets
+Let's talk about null, So null is exactoly same as other programming languges. null means nothing.When we have a varibale or object which we want to make empty then we assign "null" to a variable. and typeof null is a primitive datatype. You can see the below snippets
 
 
 ```
