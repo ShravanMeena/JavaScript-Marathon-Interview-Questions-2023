@@ -10,6 +10,19 @@ function sum(...numbers) {
 }
 
 console.log(sum(1, 2, 3, 4, 5)); // Output: 15
+
+
+
+
+Handle named parameters?
+function exampleFunction(a, b, ...rest) {
+  console.log("a:", a);
+  console.log("b:", b);
+  console.log("rest:", rest);
+}
+
+exampleFunction(1, 2, 3, 4, 5);
+
 ```
 
 In this example, the Rest operator (...numbers) gathers all the arguments passed to the `sum` function and stores them as an array in the `numbers` parameter.
