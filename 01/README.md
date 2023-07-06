@@ -11,3 +11,6 @@ Let's see below code for more clearity and understanding.
     console.log("value of x is " + x, "and typeof x " + typeof x) // output :  value of x is undefined and typeof undefined
     console.log("value of y is " + y, "and typeof y " + typeof y) // output : value of y is 21 and typeof y number
 ```
+
+### What is typeof? 
+    - typeof is a kind of operator which gives you the type of variable, that is the data type of a variable
